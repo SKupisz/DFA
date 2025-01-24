@@ -1,0 +1,7 @@
+Finite automaton input file structure
+
+state1 state2 staten
+input_symbol1 input_symbol2 input_symboln
+transition_state transition_symbol new_state
+initial_state
+accepting_state1 accepting_state2 accepting_staten
